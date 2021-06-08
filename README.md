@@ -1,1 +1,1 @@
-A script that trains a RNN based text generator on hundreds of dinosaur names. The trained model can be used to generate new made-up dinosaur names.
+A script that trains a RNN based text generator on hundreds of dinosaur names. The trained model can be used to generate new made-up dinosaur names. The script has detailed inline comments on the different functions representing RNN components used.
